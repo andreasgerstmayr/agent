@@ -1,0 +1,7 @@
+{
+  "name": "agent-monorepo",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
